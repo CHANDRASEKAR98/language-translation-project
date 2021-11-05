@@ -1,22 +1,12 @@
-# language-translation-project
-
 # Language Translation Project
 
 The aim of this project is to translate the given input into a desired language of our choice.
-
-
-## Acknowledgements
-
- - [Google App Scripts](https://www.google.com/script/start/)
- - [URL & HttpURLConnection in Java](https://www.geeksforgeeks.org/java-net-httpurlconnection-class-java/)
-
 
 ## Roadmap
 
 - Creating a script on Google App Scripts
 
 - Integrating a Java project with the script using Macro URL.
-
 
 ## Demo
 
@@ -168,6 +158,10 @@ The output will be displayed like the following.
 
 
 
+## Acknowledgements
+
+ - [Google App Scripts](https://www.google.com/script/start/)
+ - [URL & HttpURLConnection in Java](https://www.geeksforgeeks.org/java-net-httpurlconnection-class-java/)
 
 ## Authors
 
